@@ -1,4 +1,4 @@
-For gum_core, maybe redmrp as well or whatever its called but havent tested on that framework yet
+For gum_core framework
 
 ## How to Install?
 

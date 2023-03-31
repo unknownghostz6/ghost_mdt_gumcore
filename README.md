@@ -1,4 +1,4 @@
-For vorp_core and gum_core, maybe redmrp as well or whatever its called but havent tested on that framework
+For gum_core, maybe redmrp as well or whatever its called but havent tested on that framework yet
 
 ## How to Install?
 

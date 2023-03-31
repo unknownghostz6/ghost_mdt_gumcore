@@ -10,5 +10,5 @@ For vorp_core and gum_core, maybe redmrp as well or whatever its called but have
 ## Example
 ![pic1](https://cdn.discordapp.com/attachments/963010990373494845/1090860976234041344/Desktop_Screenshot_2023.03.29_-_13.31.47.752.png)
 
-## Script Version made by i3ucky (all i did with my version is change notes to telegrams, i highly suggest using i3ucky version over mine as hes the original creator) :
-https://github.com/i3ucky/bucky_mdt
+## Script UI/version made by i3ucky (all i did with my version is change notes to telegrams and convert to gumcore framework:
+https://github.com/i3ucky

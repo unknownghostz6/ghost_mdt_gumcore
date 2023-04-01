@@ -48,7 +48,7 @@ Version.checkRelease = function (resourcename, repo)
     })
 end
 
-Version.checkRelease(GetCurrentResourceName(), 'https://github.com/unknownghostz6/ghost_mdt')
+Version.checkRelease(GetCurrentResourceName(), 'https://github.com/unknownghostz6/ghost_mdt_gumcore')
 
 exports('Version',function()
     return Version

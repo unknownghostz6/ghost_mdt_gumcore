@@ -9,7 +9,7 @@ Config = {}
 Config.Command = "aa"
 
 --[[ Allowed Jobs ]]--
-Config.Jobs = {"ranger","marshal","rhsheriff","nhsheriff","wesheriff","lmsheriff","nasheriff","police"}
+Config.Jobs = {"ranger","marshal","sheriff","police"}
 
 --[[ Offices ]]--
 Config.UseOffice = true
